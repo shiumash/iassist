@@ -12,3 +12,4 @@
       "setup": "cd frontend && npm install"
     }
   }
+

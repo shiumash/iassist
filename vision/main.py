@@ -1,7 +1,9 @@
+
 from vision.imports import *
 from vision.scene import Scene
 from vision.priority_list import NavigationQueue
 from vision.tts import TTSProcessor
+
 
 def main():
     frame_size = (640, 480)  # Smaller frame size for faster processing
