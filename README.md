@@ -49,7 +49,7 @@ pip install -r requirements.txt
 
 # Frontend dependencies
 cd frontend
-npm install
+pnpm install
 ```
 
 2. Start the application:
@@ -61,6 +61,9 @@ python3 server.py
 # In a new terminal, start the frontend (in the frontend directory)
 cd frontend
 npm run dev
+
+(experimental)
+./run_all.sh
 ```
 
 ### Option 2: Run Visual Tracking Standalone (IN DEVELOPING)
